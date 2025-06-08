@@ -16,7 +16,7 @@
  </div>
  
  <div style="display: inline_block">
-   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cpp,cs,python,git,vscode&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=css,js,react,html,nodejs,cpp,cs,python,git,vscode&theme=dark" />
  </div>
 
  <br>
