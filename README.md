@@ -28,7 +28,7 @@
  </div>
  
  <div>
-   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=aoxygg&cc=0d1117&tc=0000FF&ic=0000FF&bc=0d1117"/>
+   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=przinxz7&cc=0d1117&tc=0000FF&ic=0000FF&bc=0d1117"/>
  </div>
 
  <br>
