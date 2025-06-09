@@ -48,10 +48,10 @@
  </div>
 
  <div align="center" style="margin: 20px 0">
-   <a href="https://discord.gg/nowstealer" target="_blank">
+   <a href="https://discord.gg/6bVmNSNUm6" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
    </a>
-   <a href="https://instagram.com/aoxygg" target="_blank">
+   <a href="https://instagram.com/przinxz7" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
  </div>
