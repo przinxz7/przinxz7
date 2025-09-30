@@ -34,12 +34,12 @@
  <br>
 
  <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aoxygg&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&sideLabels=0000FF&dates=0000FF"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=przinxz7&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&sideLabels=0000FF&dates=0000FF"/>
  </div>
 
  <br>
 
- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aoxygg&theme=react-dark&hide_border=true&bg_color=0d1117&line=0000FF&color=0000FF&custom_title=Contribution%20Graph&area=true"/>
+ <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=przinxz7&theme=react-dark&hide_border=true&bg_color=0d1117&line=0000FF&color=0000FF&custom_title=Contribution%20Graph&area=true"/>
 
  <div align="center">
    <h2>
@@ -63,11 +63,11 @@
  </div>
 
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=aoxygg&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=przinxz7&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
  </div>
 
  <div align="center" style="margin: 20px 0">
-   <img src="https://komarev.com/ghpvc/?username=aoxygg&color=0000FF&style=for-the-badge&label=Profile+Views"/>
+   <img src="https://komarev.com/ghpvc/?username=przinxz7&color=0000FF&style=for-the-badge&label=Profile+Views"/>
  </div>
 
  <picture>
